@@ -1,1 +1,1 @@
-# etude_de_cas_merise
+# etude_de_cas_Multimax
